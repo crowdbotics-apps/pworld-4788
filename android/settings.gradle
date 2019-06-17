@@ -1,0 +1,3 @@
+rootProject.name = 'pworld_4788'
+
+include ':app'
